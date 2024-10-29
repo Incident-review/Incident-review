@@ -1,5 +1,6 @@
 
-![png](https://github.com/user-attachments/assets/234effb9-dc9d-49a1-afc2-e1cecef606dc)
+![Uploading New Project.jpg…]()
+
 
 ## My complete setup 
 *(this helps me keep track of my workspace and makes it easier to improve carefully)*
