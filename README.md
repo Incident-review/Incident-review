@@ -1,5 +1,5 @@
 
-![Uploading New Project.jpg…]()
+
 
 
 ## My complete setup 
