@@ -6,7 +6,7 @@
 \____/ |_| |_|\___|_|\__,_|\___|_| |_|\__|    |_|  \___| \_/ |_|\___| \_/\_/ 
 ```
 
-![body pixel](https://github.com/user-attachments/assets/adb2bc2a-aa9d-4ef2-bd19-d7300f6910e4) ![interface 3](https://github.com/user-attachments/assets/c4081436-d593-4f50-b5e4-fd964dd81810) ![interface 5](https://github.com/user-attachments/assets/b2bbc6c4-e714-44a7-bbe2-bee9c2b4e7c2)
+ !![body pixel](https://github.com/user-attachments/assets/80550de2-ba10-4149-a82d-36e91b793336) ![interface 3](https://github.com/user-attachments/assets/5ecac14b-9d9d-44c3-9693-79a4841e010e) ![interface 5](https://github.com/user-attachments/assets/b2bbc6c4-e714-44a7-bbe2-bee9c2b4e7c2)
 
 
 
